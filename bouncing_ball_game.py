@@ -5,6 +5,8 @@ http://stackoverflow.com/a/15459868/190597 (unutbu)
 Based on http://www.pygame.org/docs/tut/intro/intro.html
 Draws a red ball bouncing around in the window.
 Pressing the arrow keys moves the ball
+pressing enter creates ledge
+clicking on ledge allows you to djust ledge postion
 """
 
 import sys
